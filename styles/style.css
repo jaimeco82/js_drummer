@@ -12,7 +12,7 @@ h1{
 
 #drumset{
   background:#E7E6AD;
-  background-image: url('./assets/drums.png');
+  background-image: url('../assets/drums.png');
   background-repeat: no-repeat;
   background-position: center;
   height: 400px;
